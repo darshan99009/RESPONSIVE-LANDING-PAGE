@@ -31,5 +31,5 @@ It features a **fixed interactive navigation menu** that changes style on scroll
 
 Clone this repository:
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://github.com/darshan99009/RESPONSIVE-LANDING-PAGE.git
    ```
